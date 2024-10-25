@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2f881083e1a24dfa9f5a547c2a9fd944/artifacts
+end_time: 1729871301228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f881083e1a24dfa9f5a547c2a9fd944
+run_name: adorable-crab-861
+run_uuid: 2f881083e1a24dfa9f5a547c2a9fd944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729871281941
+status: 3
+tags: []
+user_id: Tushar reddy

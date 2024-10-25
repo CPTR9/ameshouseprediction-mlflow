@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bd4e8ecf56d04c4dad142454f40d207e/artifacts
+end_time: 1729870980926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd4e8ecf56d04c4dad142454f40d207e
+run_name: marvelous-hound-203
+run_uuid: bd4e8ecf56d04c4dad142454f40d207e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729870955117
+status: 3
+tags: []
+user_id: Tushar reddy
